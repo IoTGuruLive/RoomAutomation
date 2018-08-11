@@ -1,6 +1,6 @@
 # RoomAutomation
 * Room automation with ESP8266 in Arduino
-* Cloud support: https://iothub.live/nodes/4ca6ff41-4408-11e8-94bd-3dd310e71935
+* Cloud support: https://iotguru.live/nodes/4ca6ff41-4408-11e8-94bd-3dd310e71935
 
 # Features
 
@@ -20,4 +20,4 @@
 
 # Schema
 
-![Schema](https://github.com/gaborauth/RoomAutomation/blob/master/images/schema.jpg)
+![Schema](https://github.com/IoTGuruLive/RoomAutomation/blob/master/images/schema.jpg)
